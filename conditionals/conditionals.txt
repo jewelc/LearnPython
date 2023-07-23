@@ -1,0 +1,6 @@
+# > greater than
+# >= Greater than or equal to
+#  < less than
+#  <= less than or equal to
+# == equal to
+# != Note equal to
