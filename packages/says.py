@@ -1,7 +1,8 @@
 import sys
-from saying import hello
+from saying import hello, goodbye
 
 
 if len(sys.argv) == 2:
-    hello(sys.argv[1])
+    hello("jewel")
+    goodbye("world")
 
